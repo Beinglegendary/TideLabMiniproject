@@ -1,5 +1,5 @@
 # TiideLabMiniproject
-# This app search through users info using their username
+# This app search through users info by using their usernames
 # Data were gotten from JSON placeholder
 # On PC
 ![miniPC](https://user-images.githubusercontent.com/91549722/167649923-87602f1c-8e67-4f50-b530-3319dd7a5655.PNG)
@@ -9,4 +9,4 @@
 ![miniphone](https://user-images.githubusercontent.com/91549722/167650248-75a1fff4-c96d-41a1-b67f-0e52443f38bb.PNG)
 
 # Checkout the live version
-https://emsunminiproject.netlify.app/
+https://beinglegendary.github.io/TideLabMiniproject/
